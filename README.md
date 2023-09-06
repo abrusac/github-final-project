@@ -1,3 +1,7 @@
-[# github-final-project
-Final project of Git and GitHub IBM Course
-](https://github.com/abrusac/github-final-project/blob/main/LICENSE)https://github.com/abrusac/github-final-project/blob/main/LICENSE
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
